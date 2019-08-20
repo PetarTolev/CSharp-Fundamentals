@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\bin\Debug\netcoreapp2.1\Supermarket.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Supermarket\obj\Debug\netcoreapp2.1\Supermarket.pdb

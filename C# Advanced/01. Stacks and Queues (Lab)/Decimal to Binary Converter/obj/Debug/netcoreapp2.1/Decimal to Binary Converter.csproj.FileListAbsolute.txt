@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\bin\Debug\netcoreapp2.1\Decimal to Binary Converter.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\bin\Debug\netcoreapp2.1\Decimal to Binary Converter.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\bin\Debug\netcoreapp2.1\Decimal to Binary Converter.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\bin\Debug\netcoreapp2.1\Decimal to Binary Converter.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\bin\Debug\netcoreapp2.1\Decimal to Binary Converter.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\obj\Debug\netcoreapp2.1\Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\obj\Debug\netcoreapp2.1\Decimal to Binary Converter.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\obj\Debug\netcoreapp2.1\Decimal to Binary Converter.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\obj\Debug\netcoreapp2.1\Decimal to Binary Converter.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Decimal to Binary Converter\obj\Debug\netcoreapp2.1\Decimal to Binary Converter.pdb

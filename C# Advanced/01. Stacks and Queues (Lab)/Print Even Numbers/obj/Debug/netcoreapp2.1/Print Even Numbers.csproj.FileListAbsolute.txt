@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp2.1\Print Even Numbers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp2.1\Print Even Numbers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp2.1\Print Even Numbers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp2.1\Print Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\bin\Debug\netcoreapp2.1\Print Even Numbers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp2.1\Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp2.1\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp2.1\Print Even Numbers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp2.1\Print Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Print Even Numbers\obj\Debug\netcoreapp2.1\Print Even Numbers.pdb

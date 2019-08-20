@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\bin\Debug\netcoreapp2.1\Traffic Light.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\bin\Debug\netcoreapp2.1\Traffic Light.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\bin\Debug\netcoreapp2.1\Traffic Light.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\bin\Debug\netcoreapp2.1\Traffic Light.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\bin\Debug\netcoreapp2.1\Traffic Light.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Stacks and Queues\Traffic Light\obj\Debug\netcoreapp2.1\Traffic Light.csprojAssemblyReference.cache
