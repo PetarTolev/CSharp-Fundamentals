@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\bin\Debug\netcoreapp2.1\Simple Text Editor.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Simple Text Editor\obj\Debug\netcoreapp2.1\Simple Text Editor.pdb

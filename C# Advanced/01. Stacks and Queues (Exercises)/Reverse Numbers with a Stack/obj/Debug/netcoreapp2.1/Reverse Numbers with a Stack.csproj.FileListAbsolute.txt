@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\bin\Debug\netcoreapp2.1\Reverse Numbers with a Stack.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\bin\Debug\netcoreapp2.1\Reverse Numbers with a Stack.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\bin\Debug\netcoreapp2.1\Reverse Numbers with a Stack.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\bin\Debug\netcoreapp2.1\Reverse Numbers with a Stack.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\bin\Debug\netcoreapp2.1\Reverse Numbers with a Stack.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\obj\Debug\netcoreapp2.1\Reverse Numbers with a Stack.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\obj\Debug\netcoreapp2.1\Reverse Numbers with a Stack.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\obj\Debug\netcoreapp2.1\Reverse Numbers with a Stack.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\obj\Debug\netcoreapp2.1\Reverse Numbers with a Stack.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Reverse Numbers with a Stack\obj\Debug\netcoreapp2.1\Reverse Numbers with a Stack.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\bin\Debug\netcoreapp2.1\Fast Food.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Fast Food\obj\Debug\netcoreapp2.1\Fast Food.pdb

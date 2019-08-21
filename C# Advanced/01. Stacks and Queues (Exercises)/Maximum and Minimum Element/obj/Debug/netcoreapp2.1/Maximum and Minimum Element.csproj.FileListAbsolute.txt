@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\bin\Debug\netcoreapp2.1\Maximum and Minimum Element.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Maximum and Minimum Element\obj\Debug\netcoreapp2.1\Maximum and Minimum Element.pdb

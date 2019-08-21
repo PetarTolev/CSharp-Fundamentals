@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\bin\Debug\netcoreapp2.1\Sequence With Queue.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\bin\Debug\netcoreapp2.1\Sequence With Queue.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\bin\Debug\netcoreapp2.1\Sequence With Queue.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\bin\Debug\netcoreapp2.1\Sequence With Queue.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\bin\Debug\netcoreapp2.1\Sequence With Queue.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\obj\Debug\netcoreapp2.1\Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\obj\Debug\netcoreapp2.1\Sequence With Queue.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\obj\Debug\netcoreapp2.1\Sequence With Queue.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\obj\Debug\netcoreapp2.1\Sequence With Queue.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Sequence With Queue\obj\Debug\netcoreapp2.1\Sequence With Queue.pdb

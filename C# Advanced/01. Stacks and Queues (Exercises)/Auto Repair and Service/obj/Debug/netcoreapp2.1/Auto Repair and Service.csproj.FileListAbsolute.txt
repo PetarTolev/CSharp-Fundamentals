@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\bin\Debug\netcoreapp2.1\Auto Repair and Service.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\bin\Debug\netcoreapp2.1\Auto Repair and Service.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\bin\Debug\netcoreapp2.1\Auto Repair and Service.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\bin\Debug\netcoreapp2.1\Auto Repair and Service.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\bin\Debug\netcoreapp2.1\Auto Repair and Service.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Stacks and Queues\Auto Repair and Service\obj\Debug\netcoreapp2.1\Auto Repair and Service.pdb
