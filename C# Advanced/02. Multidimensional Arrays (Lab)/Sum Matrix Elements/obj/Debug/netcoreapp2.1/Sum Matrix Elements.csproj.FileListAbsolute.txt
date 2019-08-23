@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\bin\Debug\netcoreapp2.1\Sum Matrix Elements.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Sum Matrix Elements\obj\Debug\netcoreapp2.1\Sum Matrix Elements.pdb

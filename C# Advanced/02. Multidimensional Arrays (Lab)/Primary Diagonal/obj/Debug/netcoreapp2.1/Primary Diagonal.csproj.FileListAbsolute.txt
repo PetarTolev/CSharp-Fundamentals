@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\bin\Debug\netcoreapp2.1\Primary Diagonal.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Primary Diagonal\obj\Debug\netcoreapp2.1\Primary Diagonal.pdb

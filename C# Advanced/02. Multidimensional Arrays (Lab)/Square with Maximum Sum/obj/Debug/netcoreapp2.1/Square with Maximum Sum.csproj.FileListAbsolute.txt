@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\bin\Debug\netcoreapp2.1\Square with Maximum Sum.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Square with Maximum Sum\obj\Debug\netcoreapp2.1\Square with Maximum Sum.pdb

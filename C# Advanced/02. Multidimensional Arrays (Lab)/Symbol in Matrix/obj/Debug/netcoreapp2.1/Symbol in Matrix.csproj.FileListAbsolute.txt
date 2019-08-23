@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\bin\Debug\netcoreapp2.1\Symbol in Matrix.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Multidimensional Arrays\Symbol in Matrix\obj\Debug\netcoreapp2.1\Symbol in Matrix.pdb
