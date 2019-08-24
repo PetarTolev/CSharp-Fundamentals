@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.pdb

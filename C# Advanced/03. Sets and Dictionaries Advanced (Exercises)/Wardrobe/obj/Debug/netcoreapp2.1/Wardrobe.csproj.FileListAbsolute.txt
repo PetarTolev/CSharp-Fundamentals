@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\bin\Debug\netcoreapp2.1\Wardrobe.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Sets and Dictionaries Advanced\Wardrobe\obj\Debug\netcoreapp2.1\Wardrobe.pdb
