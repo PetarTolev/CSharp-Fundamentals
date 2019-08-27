@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\bin\Debug\netcoreapp2.1\Count Same Values in Array.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\bin\Debug\netcoreapp2.1\Count Same Values in Array.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\bin\Debug\netcoreapp2.1\Count Same Values in Array.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\bin\Debug\netcoreapp2.1\Count Same Values in Array.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\bin\Debug\netcoreapp2.1\Count Same Values in Array.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Count Same Values in Array\obj\Debug\netcoreapp2.1\Count Same Values in Array.pdb

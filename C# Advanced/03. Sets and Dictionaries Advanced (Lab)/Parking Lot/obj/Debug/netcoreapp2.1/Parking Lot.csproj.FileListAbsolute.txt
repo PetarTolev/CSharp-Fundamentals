@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\bin\Debug\netcoreapp2.1\Parking Lot.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Parking Lot\obj\Debug\netcoreapp2.1\Parking Lot.pdb

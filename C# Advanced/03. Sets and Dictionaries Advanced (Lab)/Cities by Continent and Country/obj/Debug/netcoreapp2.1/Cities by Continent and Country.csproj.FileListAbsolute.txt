@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\netcoreapp2.1\Cities by Continent and Country.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\netcoreapp2.1\Cities by Continent and Country.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\netcoreapp2.1\Cities by Continent and Country.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\netcoreapp2.1\Cities by Continent and Country.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\bin\Debug\netcoreapp2.1\Cities by Continent and Country.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Cities by Continent and Country\obj\Debug\netcoreapp2.1\Cities by Continent and Country.pdb

@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.pdb

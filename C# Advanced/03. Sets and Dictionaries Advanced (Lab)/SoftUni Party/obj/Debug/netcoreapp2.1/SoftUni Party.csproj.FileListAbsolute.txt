@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\bin\Debug\netcoreapp2.1\SoftUni Party.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\SoftUni Party\obj\Debug\netcoreapp2.1\SoftUni Party.pdb

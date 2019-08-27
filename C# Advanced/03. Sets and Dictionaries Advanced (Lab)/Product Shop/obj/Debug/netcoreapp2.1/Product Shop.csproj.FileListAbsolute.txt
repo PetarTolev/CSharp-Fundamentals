@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Lab) Sets and Dictionaries Advanced\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.pdb
