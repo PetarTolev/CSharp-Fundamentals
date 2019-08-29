@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.1\Matrix shuffling.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.1\Matrix shuffling.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.1\Matrix shuffling.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.1\Matrix shuffling.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\bin\Debug\netcoreapp2.1\Matrix shuffling.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Matrix shuffling\obj\Debug\netcoreapp2.1\Matrix shuffling.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\bin\Debug\netcoreapp2.1\Diagonal Difference.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Diagonal Difference\obj\Debug\netcoreapp2.1\Diagonal Difference.pdb

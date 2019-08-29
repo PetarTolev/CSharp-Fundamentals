@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp2.1\Knight Game.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp2.1\Knight Game.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp2.1\Knight Game.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp2.1\Knight Game.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\bin\Debug\netcoreapp2.1\Knight Game.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Multidimensional Arrays\Knight Game\obj\Debug\netcoreapp2.1\Knight Game.csprojAssemblyReference.cache
