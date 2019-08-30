@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\bin\Debug\netcoreapp2.1\Merge Files.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Merge Files\obj\Debug\netcoreapp2.1\Merge Files.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\bin\Debug\netcoreapp2.1\Folder Size.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Folder Size\obj\Debug\netcoreapp2.1\Folder Size.pdb

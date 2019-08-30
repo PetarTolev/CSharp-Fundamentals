@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\bin\Debug\netcoreapp2.1\Line Numbers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Streams, Files and Directories\Line Numbers\obj\Debug\netcoreapp2.1\Line Numbers.pdb
