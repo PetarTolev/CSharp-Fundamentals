@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\bin\Debug\netcoreapp2.1\P01-Sort Even Numbers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\bin\Debug\netcoreapp2.1\P01-Sort Even Numbers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\bin\Debug\netcoreapp2.1\P01-Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\bin\Debug\netcoreapp2.1\P01-Sort Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\bin\Debug\netcoreapp2.1\P01-Sort Even Numbers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P01-Sort Even Numbers\obj\Debug\netcoreapp2.1\P01-Sort Even Numbers.pdb

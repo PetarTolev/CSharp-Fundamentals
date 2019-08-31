@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\bin\Debug\netcoreapp2.1\P02-Sum Numbers.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\bin\Debug\netcoreapp2.1\P02-Sum Numbers.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\bin\Debug\netcoreapp2.1\P02-Sum Numbers.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\bin\Debug\netcoreapp2.1\P02-Sum Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\bin\Debug\netcoreapp2.1\P02-Sum Numbers.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\obj\Debug\netcoreapp2.1\P02-Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\obj\Debug\netcoreapp2.1\P02-Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\obj\Debug\netcoreapp2.1\P02-Sum Numbers.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\obj\Debug\netcoreapp2.1\P02-Sum Numbers.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P02-Sum Numbers\obj\Debug\netcoreapp2.1\P02-Sum Numbers.pdb

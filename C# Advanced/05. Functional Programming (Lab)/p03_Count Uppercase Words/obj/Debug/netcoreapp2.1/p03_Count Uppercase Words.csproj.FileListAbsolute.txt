@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\bin\Debug\netcoreapp2.1\p03_Count Uppercase Words.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\bin\Debug\netcoreapp2.1\p03_Count Uppercase Words.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\bin\Debug\netcoreapp2.1\p03_Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\bin\Debug\netcoreapp2.1\p03_Count Uppercase Words.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\bin\Debug\netcoreapp2.1\p03_Count Uppercase Words.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\obj\Debug\netcoreapp2.1\p03_Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\obj\Debug\netcoreapp2.1\p03_Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\obj\Debug\netcoreapp2.1\p03_Count Uppercase Words.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\obj\Debug\netcoreapp2.1\p03_Count Uppercase Words.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\p03_Count Uppercase Words\obj\Debug\netcoreapp2.1\p03_Count Uppercase Words.pdb

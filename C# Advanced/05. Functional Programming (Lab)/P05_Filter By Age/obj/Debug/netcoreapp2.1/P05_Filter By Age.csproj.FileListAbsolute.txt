@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\bin\Debug\netcoreapp2.1\P05_Filter By Age.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\bin\Debug\netcoreapp2.1\P05_Filter By Age.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\bin\Debug\netcoreapp2.1\P05_Filter By Age.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\bin\Debug\netcoreapp2.1\P05_Filter By Age.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\bin\Debug\netcoreapp2.1\P05_Filter By Age.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Functional Programming\P05_Filter By Age\obj\Debug\netcoreapp2.1\P05_Filter By Age.pdb
