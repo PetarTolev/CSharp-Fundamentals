@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\bin\Debug\netcoreapp2.1\P13_TriFunction.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\bin\Debug\netcoreapp2.1\P13_TriFunction.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\bin\Debug\netcoreapp2.1\P13_TriFunction.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\bin\Debug\netcoreapp2.1\P13_TriFunction.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\bin\Debug\netcoreapp2.1\P13_TriFunction.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\obj\Debug\netcoreapp2.1\P13_TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\obj\Debug\netcoreapp2.1\P13_TriFunction.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\obj\Debug\netcoreapp2.1\P13_TriFunction.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\obj\Debug\netcoreapp2.1\P13_TriFunction.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P13_TriFunction\obj\Debug\netcoreapp2.1\P13_TriFunction.pdb

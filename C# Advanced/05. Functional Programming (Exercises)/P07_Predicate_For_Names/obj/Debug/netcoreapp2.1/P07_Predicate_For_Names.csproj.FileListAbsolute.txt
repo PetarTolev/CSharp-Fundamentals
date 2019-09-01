@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\bin\Debug\netcoreapp2.1\P07_Predicate_For_Names.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P07_Predicate_For_Names\obj\Debug\netcoreapp2.1\P07_Predicate_For_Names.pdb

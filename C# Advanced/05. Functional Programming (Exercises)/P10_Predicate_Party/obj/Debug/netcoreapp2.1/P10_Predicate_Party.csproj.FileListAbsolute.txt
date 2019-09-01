@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\bin\Debug\netcoreapp2.1\P10_Predicate_Party.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P10_Predicate_Party\obj\Debug\netcoreapp2.1\P10_Predicate_Party.pdb

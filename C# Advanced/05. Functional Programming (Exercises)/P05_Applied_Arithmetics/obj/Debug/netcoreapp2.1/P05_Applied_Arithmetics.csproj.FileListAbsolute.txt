@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\bin\Debug\netcoreapp2.1\P05_Applied_Arithmetics.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Functional Programming\P05_Applied_Arithmetics\obj\Debug\netcoreapp2.1\P05_Applied_Arithmetics.pdb
