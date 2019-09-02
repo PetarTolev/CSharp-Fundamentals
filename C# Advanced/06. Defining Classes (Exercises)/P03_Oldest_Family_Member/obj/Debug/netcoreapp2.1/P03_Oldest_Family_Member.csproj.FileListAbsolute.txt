@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\bin\Debug\netcoreapp2.1\P03_Oldest_Family_Member.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\bin\Debug\netcoreapp2.1\P03_Oldest_Family_Member.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\bin\Debug\netcoreapp2.1\P03_Oldest_Family_Member.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\bin\Debug\netcoreapp2.1\P03_Oldest_Family_Member.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\bin\Debug\netcoreapp2.1\P03_Oldest_Family_Member.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P03_Oldest_Family_Member\obj\Debug\netcoreapp2.1\P03_Oldest_Family_Member.pdb

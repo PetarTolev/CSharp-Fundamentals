@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\bin\Debug\netcoreapp2.1\P08_Raw_Data.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P08_Raw_Data\obj\Debug\netcoreapp2.1\P08_Raw_Data.pdb

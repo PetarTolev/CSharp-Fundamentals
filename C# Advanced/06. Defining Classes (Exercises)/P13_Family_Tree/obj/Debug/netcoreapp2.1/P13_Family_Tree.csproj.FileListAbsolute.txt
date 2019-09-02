@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\bin\Debug\netcoreapp2.1\P13_Family_Tree.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\bin\Debug\netcoreapp2.1\P13_Family_Tree.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\bin\Debug\netcoreapp2.1\P13_Family_Tree.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\bin\Debug\netcoreapp2.1\P13_Family_Tree.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\bin\Debug\netcoreapp2.1\P13_Family_Tree.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P13_Family_Tree\obj\Debug\netcoreapp2.1\P13_Family_Tree.pdb

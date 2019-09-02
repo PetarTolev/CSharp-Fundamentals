@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\bin\Debug\netcoreapp2.1\P12_Google.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P12_Google\obj\Debug\netcoreapp2.1\P12_Google.pdb

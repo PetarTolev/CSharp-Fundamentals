@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\bin\Debug\netcoreapp2.1\P01_Define_a_Class_Person.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\bin\Debug\netcoreapp2.1\P01_Define_a_Class_Person.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\bin\Debug\netcoreapp2.1\P01_Define_a_Class_Person.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\bin\Debug\netcoreapp2.1\P01_Define_a_Class_Person.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\bin\Debug\netcoreapp2.1\P01_Define_a_Class_Person.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P01_Define_a_Class_Person\obj\Debug\netcoreapp2.1\P01_Define_a_Class_Person.pdb

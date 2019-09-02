@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\bin\Debug\netcoreapp2.1\P05_Date_Modifier.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P05_Date_Modifier\obj\Debug\netcoreapp2.1\P05_Date_Modifier.pdb

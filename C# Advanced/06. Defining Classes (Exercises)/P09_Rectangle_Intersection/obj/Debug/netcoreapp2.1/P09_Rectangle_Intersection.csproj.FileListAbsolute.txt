@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersection.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersection.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersection.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersection.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\bin\Debug\netcoreapp2.1\P09_Rectangle_Intersection.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Defining Classes\P09_Rectangle_Intersection\obj\Debug\netcoreapp2.1\P09_Rectangle_Intersection.pdb
