@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\bin\Debug\netcoreapp2.1\P01_Generic_Box_of_String.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\bin\Debug\netcoreapp2.1\P01_Generic_Box_of_String.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\bin\Debug\netcoreapp2.1\P01_Generic_Box_of_String.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\bin\Debug\netcoreapp2.1\P01_Generic_Box_of_String.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\bin\Debug\netcoreapp2.1\P01_Generic_Box_of_String.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Generics\P01_Generic_Box_of_String\obj\Debug\netcoreapp2.1\P01_Generic_Box_of_String.pdb
