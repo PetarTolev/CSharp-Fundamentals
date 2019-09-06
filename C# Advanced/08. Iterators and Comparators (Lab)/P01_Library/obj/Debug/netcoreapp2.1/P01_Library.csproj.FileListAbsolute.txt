@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\bin\Debug\netcoreapp2.1\P01_Library.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\bin\Debug\netcoreapp2.1\P01_Library.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\bin\Debug\netcoreapp2.1\P01_Library.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\bin\Debug\netcoreapp2.1\P01_Library.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\bin\Debug\netcoreapp2.1\P01_Library.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\obj\Debug\netcoreapp2.1\P01_Library.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\obj\Debug\netcoreapp2.1\P01_Library.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\obj\Debug\netcoreapp2.1\P01_Library.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\obj\Debug\netcoreapp2.1\P01_Library.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P01_Library\obj\Debug\netcoreapp2.1\P01_Library.pdb

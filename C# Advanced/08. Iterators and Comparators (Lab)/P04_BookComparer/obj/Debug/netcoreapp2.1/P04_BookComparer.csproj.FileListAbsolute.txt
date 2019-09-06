@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\bin\Debug\netcoreapp2.1\P04_BookComparer.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\bin\Debug\netcoreapp2.1\P04_BookComparer.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\bin\Debug\netcoreapp2.1\P04_BookComparer.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\bin\Debug\netcoreapp2.1\P04_BookComparer.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\bin\Debug\netcoreapp2.1\P04_BookComparer.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\obj\Debug\netcoreapp2.1\P04_BookComparer.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\obj\Debug\netcoreapp2.1\P04_BookComparer.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\obj\Debug\netcoreapp2.1\P04_BookComparer.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\obj\Debug\netcoreapp2.1\P04_BookComparer.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Lab) Iterators and Comparators\P04_BookComparer\obj\Debug\netcoreapp2.1\P04_BookComparer.pdb
