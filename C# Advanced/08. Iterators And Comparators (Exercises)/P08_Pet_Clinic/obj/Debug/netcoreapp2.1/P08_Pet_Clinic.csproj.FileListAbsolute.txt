@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\bin\Debug\netcoreapp2.1\P08_Pet_Clinic.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\bin\Debug\netcoreapp2.1\P08_Pet_Clinic.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\bin\Debug\netcoreapp2.1\P08_Pet_Clinic.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\bin\Debug\netcoreapp2.1\P08_Pet_Clinic.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\bin\Debug\netcoreapp2.1\P08_Pet_Clinic.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P08_Pet_Clinic\obj\Debug\netcoreapp2.1\P08_Pet_Clinic.pdb

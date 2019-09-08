@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\bin\Debug\netcoreapp2.1\P07_Equality_Logic.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\(Exercises) Iterators And Comparators\P07_Equality_Logic\obj\Debug\netcoreapp2.1\P07_Equality_Logic.pdb
