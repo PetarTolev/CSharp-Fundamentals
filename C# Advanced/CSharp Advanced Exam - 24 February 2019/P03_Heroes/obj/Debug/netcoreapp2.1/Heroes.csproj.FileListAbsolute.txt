@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Exam - 24 February 2019\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
