@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\bin\Debug\netcoreapp2.1\P02_Sneaking.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\bin\Debug\netcoreapp2.1\P02_Sneaking.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\bin\Debug\netcoreapp2.1\P02_Sneaking.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\bin\Debug\netcoreapp2.1\P02_Sneaking.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\bin\Debug\netcoreapp2.1\P02_Sneaking.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# Advanced\CSharp Advanced Sample Exam\P02_Sneaking\obj\Debug\netcoreapp2.1\P02_Sneaking.pdb
