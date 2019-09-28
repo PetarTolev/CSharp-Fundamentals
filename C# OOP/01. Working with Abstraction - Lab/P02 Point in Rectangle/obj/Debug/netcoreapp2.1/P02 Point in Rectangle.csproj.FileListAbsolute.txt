@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\bin\Debug\netcoreapp2.1\P02 Point in Rectangle.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\bin\Debug\netcoreapp2.1\P02 Point in Rectangle.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\bin\Debug\netcoreapp2.1\P02 Point in Rectangle.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\bin\Debug\netcoreapp2.1\P02 Point in Rectangle.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\bin\Debug\netcoreapp2.1\P02 Point in Rectangle.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\obj\Debug\netcoreapp2.1\P02 Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\obj\Debug\netcoreapp2.1\P02 Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\obj\Debug\netcoreapp2.1\P02 Point in Rectangle.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\obj\Debug\netcoreapp2.1\P02 Point in Rectangle.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P02 Point in Rectangle\obj\Debug\netcoreapp2.1\P02 Point in Rectangle.pdb

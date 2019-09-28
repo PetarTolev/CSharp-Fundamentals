@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\bin\Debug\netcoreapp2.0\P03_StudentSystem.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Working with Abstraction\P03_StudentSystem\obj\Debug\netcoreapp2.0\P03_StudentSystem.pdb
