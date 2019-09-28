@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\bin\Debug\netcoreapp2.1\P07_InfernoInfinity.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\bin\Debug\netcoreapp2.1\P07_InfernoInfinity.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\bin\Debug\netcoreapp2.1\P07_InfernoInfinity.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\bin\Debug\netcoreapp2.1\P07_InfernoInfinity.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\bin\Debug\netcoreapp2.1\P07_InfernoInfinity.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P07_InfernoInfinity\obj\Debug\netcoreapp2.1\P07_InfernoInfinity.pdb

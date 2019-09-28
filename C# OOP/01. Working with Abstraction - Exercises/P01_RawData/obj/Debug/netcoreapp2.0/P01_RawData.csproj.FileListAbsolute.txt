@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache

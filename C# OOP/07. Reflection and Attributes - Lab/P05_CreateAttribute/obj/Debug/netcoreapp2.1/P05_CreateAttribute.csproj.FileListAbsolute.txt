@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\bin\Debug\netcoreapp2.1\P05_CreateAttribute.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\bin\Debug\netcoreapp2.1\P05_CreateAttribute.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\bin\Debug\netcoreapp2.1\P05_CreateAttribute.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\bin\Debug\netcoreapp2.1\P05_CreateAttribute.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\bin\Debug\netcoreapp2.1\P05_CreateAttribute.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\obj\Debug\netcoreapp2.1\P05_CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\obj\Debug\netcoreapp2.1\P05_CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\obj\Debug\netcoreapp2.1\P05_CreateAttribute.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\obj\Debug\netcoreapp2.1\P05_CreateAttribute.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P05_CreateAttribute\obj\Debug\netcoreapp2.1\P05_CreateAttribute.pdb

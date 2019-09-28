@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp2.0\P02_CarsSalesman.csprojAssemblyReference.cache

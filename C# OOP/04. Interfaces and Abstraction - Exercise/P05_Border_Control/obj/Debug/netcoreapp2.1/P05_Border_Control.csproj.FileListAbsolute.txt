@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\bin\Debug\netcoreapp2.1\P05_Border_Control.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\bin\Debug\netcoreapp2.1\P05_Border_Control.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\bin\Debug\netcoreapp2.1\P05_Border_Control.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\bin\Debug\netcoreapp2.1\P05_Border_Control.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\bin\Debug\netcoreapp2.1\P05_Border_Control.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P05_Border_Control\obj\Debug\netcoreapp2.1\P05_Border_Control.pdb

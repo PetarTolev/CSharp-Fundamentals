@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\bin\Debug\netcoreapp2.1\P01Single_Inheritance.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\bin\Debug\netcoreapp2.1\P01Single_Inheritance.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\bin\Debug\netcoreapp2.1\P01Single_Inheritance.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\bin\Debug\netcoreapp2.1\P01Single_Inheritance.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\bin\Debug\netcoreapp2.1\P01Single_Inheritance.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Inheritance\P01Single_Inheritance\obj\Debug\netcoreapp2.1\P01Single_Inheritance.pdb

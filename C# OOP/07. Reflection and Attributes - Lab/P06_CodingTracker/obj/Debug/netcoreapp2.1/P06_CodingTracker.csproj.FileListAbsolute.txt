@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\bin\Debug\netcoreapp2.1\P06_CodingTracker.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\bin\Debug\netcoreapp2.1\P06_CodingTracker.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\bin\Debug\netcoreapp2.1\P06_CodingTracker.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\bin\Debug\netcoreapp2.1\P06_CodingTracker.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\bin\Debug\netcoreapp2.1\P06_CodingTracker.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P06_CodingTracker\obj\Debug\netcoreapp2.1\P06_CodingTracker.pdb

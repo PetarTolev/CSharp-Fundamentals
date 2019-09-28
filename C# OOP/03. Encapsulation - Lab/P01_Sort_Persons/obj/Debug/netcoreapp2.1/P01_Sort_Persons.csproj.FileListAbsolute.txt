@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\bin\Debug\netcoreapp2.1\P01_Sort_Persons.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\bin\Debug\netcoreapp2.1\P01_Sort_Persons.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\bin\Debug\netcoreapp2.1\P01_Sort_Persons.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\bin\Debug\netcoreapp2.1\P01_Sort_Persons.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\bin\Debug\netcoreapp2.1\P01_Sort_Persons.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P01_Sort_Persons\obj\Debug\netcoreapp2.1\P01_Sort_Persons.pdb

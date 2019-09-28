@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\bin\Debug\netcoreapp2.1\P02_Salary.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\bin\Debug\netcoreapp2.1\P02_Salary.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\bin\Debug\netcoreapp2.1\P02_Salary.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\bin\Debug\netcoreapp2.1\P02_Salary.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\bin\Debug\netcoreapp2.1\P02_Salary.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\obj\Debug\netcoreapp2.1\P02_Salary.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\obj\Debug\netcoreapp2.1\P02_Salary.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\obj\Debug\netcoreapp2.1\P02_Salary.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\obj\Debug\netcoreapp2.1\P02_Salary.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P02_Salary\obj\Debug\netcoreapp2.1\P02_Salary.pdb

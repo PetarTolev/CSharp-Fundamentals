@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\bin\Debug\netcoreapp2.1\P08_Military_Elite.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\bin\Debug\netcoreapp2.1\P08_Military_Elite.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\bin\Debug\netcoreapp2.1\P08_Military_Elite.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\bin\Debug\netcoreapp2.1\P08_Military_Elite.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\bin\Debug\netcoreapp2.1\P08_Military_Elite.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P08_Military_Elite\obj\Debug\netcoreapp2.1\P08_Military_Elite.pdb

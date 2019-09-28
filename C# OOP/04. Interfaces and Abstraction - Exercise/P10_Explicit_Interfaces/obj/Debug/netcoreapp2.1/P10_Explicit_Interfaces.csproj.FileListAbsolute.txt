@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\bin\Debug\netcoreapp2.1\P10_Explicit_Interfaces.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\bin\Debug\netcoreapp2.1\P10_Explicit_Interfaces.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\bin\Debug\netcoreapp2.1\P10_Explicit_Interfaces.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\bin\Debug\netcoreapp2.1\P10_Explicit_Interfaces.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\bin\Debug\netcoreapp2.1\P10_Explicit_Interfaces.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\obj\Debug\netcoreapp2.1\P10_Explicit_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\obj\Debug\netcoreapp2.1\P10_Explicit_Interfaces.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\obj\Debug\netcoreapp2.1\P10_Explicit_Interfaces.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\obj\Debug\netcoreapp2.1\P10_Explicit_Interfaces.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P10_Explicit_Interfaces\obj\Debug\netcoreapp2.1\P10_Explicit_Interfaces.pdb

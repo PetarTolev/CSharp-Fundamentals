@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\bin\Debug\netcoreapp2.1\P04_Shopping_Spree.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\bin\Debug\netcoreapp2.1\P04_Shopping_Spree.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\bin\Debug\netcoreapp2.1\P04_Shopping_Spree.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\bin\Debug\netcoreapp2.1\P04_Shopping_Spree.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\bin\Debug\netcoreapp2.1\P04_Shopping_Spree.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P04_Shopping_Spree\obj\Debug\netcoreapp2.1\P04_Shopping_Spree.pdb

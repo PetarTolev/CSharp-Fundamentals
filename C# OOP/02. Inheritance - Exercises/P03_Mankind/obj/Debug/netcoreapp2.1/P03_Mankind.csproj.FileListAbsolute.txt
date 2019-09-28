@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\bin\Debug\netcoreapp2.1\P03_Mankind.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\bin\Debug\netcoreapp2.1\P03_Mankind.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\bin\Debug\netcoreapp2.1\P03_Mankind.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\bin\Debug\netcoreapp2.1\P03_Mankind.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\bin\Debug\netcoreapp2.1\P03_Mankind.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P03_Mankind\obj\Debug\netcoreapp2.1\P03_Mankind.pdb

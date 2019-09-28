@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\bin\Debug\netcoreapp2.1\P05_Pizza_Calories.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\bin\Debug\netcoreapp2.1\P05_Pizza_Calories.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\bin\Debug\netcoreapp2.1\P05_Pizza_Calories.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\bin\Debug\netcoreapp2.1\P05_Pizza_Calories.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\bin\Debug\netcoreapp2.1\P05_Pizza_Calories.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P05_Pizza_Calories\obj\Debug\netcoreapp2.1\P05_Pizza_Calories.pdb

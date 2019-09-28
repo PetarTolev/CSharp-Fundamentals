@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\obj\Debug\netcoreapp2.1\P04_Collector.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\obj\Debug\netcoreapp2.1\P04_Collector.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\obj\Debug\netcoreapp2.1\P04_Collector.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\bin\Debug\netcoreapp2.1\P04_Collector.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\bin\Debug\netcoreapp2.1\P04_Collector.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\bin\Debug\netcoreapp2.1\P04_Collector.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\bin\Debug\netcoreapp2.1\P04_Collector.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\bin\Debug\netcoreapp2.1\P04_Collector.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\obj\Debug\netcoreapp2.1\P04_Collector.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Reflection and Attributes\P04_Collector\obj\Debug\netcoreapp2.1\P04_Collector.pdb

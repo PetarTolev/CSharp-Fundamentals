@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\(Exercises) Reflection and Attributes\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

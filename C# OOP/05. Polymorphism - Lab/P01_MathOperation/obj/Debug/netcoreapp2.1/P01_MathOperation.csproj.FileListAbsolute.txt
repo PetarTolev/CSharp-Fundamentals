@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\bin\Debug\netcoreapp2.1\P01_MathOperation.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\bin\Debug\netcoreapp2.1\P01_MathOperation.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\bin\Debug\netcoreapp2.1\P01_MathOperation.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\bin\Debug\netcoreapp2.1\P01_MathOperation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\bin\Debug\netcoreapp2.1\P01_MathOperation.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Polymorphism\P01_MathOperation\obj\Debug\netcoreapp2.1\P01_MathOperation.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\bin\Debug\netcoreapp2.1\P02_Cars.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\bin\Debug\netcoreapp2.1\P02_Cars.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\bin\Debug\netcoreapp2.1\P02_Cars.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\bin\Debug\netcoreapp2.1\P02_Cars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\bin\Debug\netcoreapp2.1\P02_Cars.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Interfaces and Abstraction\P02_Cars\obj\Debug\netcoreapp2.1\P02_Cars.pdb

@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\bin\Debug\netcoreapp2.1\P01_Class_Box.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\bin\Debug\netcoreapp2.1\P01_Class_Box.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\bin\Debug\netcoreapp2.1\P01_Class_Box.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\bin\Debug\netcoreapp2.1\P01_Class_Box.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\bin\Debug\netcoreapp2.1\P01_Class_Box.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\obj\Debug\netcoreapp2.1\P01_Class_Box.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\obj\Debug\netcoreapp2.1\P01_Class_Box.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\obj\Debug\netcoreapp2.1\P01_Class_Box.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\obj\Debug\netcoreapp2.1\P01_Class_Box.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P01_Class_Box\obj\Debug\netcoreapp2.1\P01_Class_Box.pdb

@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(WorkShop) Simple Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

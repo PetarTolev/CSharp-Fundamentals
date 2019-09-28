@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\bin\Debug\netcoreapp2.1\P06_Football_Team_Generator.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\bin\Debug\netcoreapp2.1\P06_Football_Team_Generator.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\bin\Debug\netcoreapp2.1\P06_Football_Team_Generator.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\bin\Debug\netcoreapp2.1\P06_Football_Team_Generator.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\bin\Debug\netcoreapp2.1\P06_Football_Team_Generator.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Encapsulation\P06_Football_Team_Generator\obj\Debug\netcoreapp2.1\P06_Football_Team_Generator.pdb

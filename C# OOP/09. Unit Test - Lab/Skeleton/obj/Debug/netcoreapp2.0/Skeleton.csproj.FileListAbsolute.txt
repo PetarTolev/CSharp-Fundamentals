@@ -1,0 +1,22 @@
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\david\Desktop\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Unit Test\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb

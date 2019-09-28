@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\bin\Debug\netcoreapp2.1\P09_Collection_Hierarchy.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\bin\Debug\netcoreapp2.1\P09_Collection_Hierarchy.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\bin\Debug\netcoreapp2.1\P09_Collection_Hierarchy.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\bin\Debug\netcoreapp2.1\P09_Collection_Hierarchy.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\bin\Debug\netcoreapp2.1\P09_Collection_Hierarchy.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P09_Collection_Hierarchy\obj\Debug\netcoreapp2.1\P09_Collection_Hierarchy.pdb

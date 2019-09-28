@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\bin\Debug\netcoreapp2.1\P07_Food_Shortage.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\bin\Debug\netcoreapp2.1\P07_Food_Shortage.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\bin\Debug\netcoreapp2.1\P07_Food_Shortage.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\bin\Debug\netcoreapp2.1\P07_Food_Shortage.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\bin\Debug\netcoreapp2.1\P07_Food_Shortage.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\obj\Debug\netcoreapp2.1\P07_Food_Shortage.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\obj\Debug\netcoreapp2.1\P07_Food_Shortage.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\obj\Debug\netcoreapp2.1\P07_Food_Shortage.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\obj\Debug\netcoreapp2.1\P07_Food_Shortage.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P07_Food_Shortage\obj\Debug\netcoreapp2.1\P07_Food_Shortage.pdb

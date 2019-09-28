@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\bin\Debug\netcoreapp2.1\P03_Ferrari.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\bin\Debug\netcoreapp2.1\P03_Ferrari.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\bin\Debug\netcoreapp2.1\P03_Ferrari.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\bin\Debug\netcoreapp2.1\P03_Ferrari.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\bin\Debug\netcoreapp2.1\P03_Ferrari.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P03_Ferrari\obj\Debug\netcoreapp2.1\P03_Ferrari.pdb

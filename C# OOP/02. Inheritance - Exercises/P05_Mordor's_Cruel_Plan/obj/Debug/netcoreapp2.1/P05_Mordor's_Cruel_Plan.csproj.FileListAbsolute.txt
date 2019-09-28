@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\bin\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\bin\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\bin\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\bin\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\bin\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Inheritance\P05_Mordor's_Cruel_Plan\obj\Debug\netcoreapp2.1\P05_Mordor's_Cruel_Plan.pdb

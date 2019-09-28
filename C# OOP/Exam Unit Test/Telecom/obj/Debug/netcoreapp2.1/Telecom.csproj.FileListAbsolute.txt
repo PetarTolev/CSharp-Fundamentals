@@ -1,0 +1,10 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\Exam Unit Test\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

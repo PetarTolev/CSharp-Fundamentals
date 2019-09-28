@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\bin\Debug\netcoreapp2.1\P04_Team.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\bin\Debug\netcoreapp2.1\P04_Team.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\bin\Debug\netcoreapp2.1\P04_Team.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\bin\Debug\netcoreapp2.1\P04_Team.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\bin\Debug\netcoreapp2.1\P04_Team.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Lab) Encapsulation\P04_Team\obj\Debug\netcoreapp2.1\P04_Team.pdb

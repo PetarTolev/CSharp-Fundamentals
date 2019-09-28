@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\bin\Debug\netcoreapp2.1\P02_Multiple_Implementation.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\bin\Debug\netcoreapp2.1\P02_Multiple_Implementation.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\bin\Debug\netcoreapp2.1\P02_Multiple_Implementation.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\bin\Debug\netcoreapp2.1\P02_Multiple_Implementation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\bin\Debug\netcoreapp2.1\P02_Multiple_Implementation.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(ExerciseI Interfaces and Abstraction\P02_Multiple_Implementation\obj\Debug\netcoreapp2.1\P02_Multiple_Implementation.pdb

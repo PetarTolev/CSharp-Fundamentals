@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\bin\Debug\netcoreapp2.1\P03_WildFarm.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\bin\Debug\netcoreapp2.1\P03_WildFarm.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\bin\Debug\netcoreapp2.1\P03_WildFarm.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\bin\Debug\netcoreapp2.1\P03_WildFarm.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\bin\Debug\netcoreapp2.1\P03_WildFarm.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercise) Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.pdb

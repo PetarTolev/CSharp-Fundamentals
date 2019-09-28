@@ -1,0 +1,11 @@
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\th3dr\Documents\Visual Studio 2017\Projects\C# OOP\(Exercises) Working with Abstraction\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb
